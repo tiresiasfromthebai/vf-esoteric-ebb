@@ -14,6 +14,8 @@ Dans l'onglet [Releases](../../releases), l'archive `VF_Esoteric_Ebb_<version>.z
 
 Une version « fichiers complets », sans script, est aussi disponible sur Nexus Mods.
 
+> **Avertissement** : cette version s'installe en lançant des scripts (.bat, .sh) et un exécutable (xdelta3). Ils sont lisibles et ne font que modifier les fichiers du jeu, mais exécuter des scripts téléchargés reste un risque. Si la sécurité de votre machine est critique (poste de travail, données sensibles…), ne l'utilisez pas : préférez la version « fichiers complets » de Nexus Mods, qui ne contient aucun script ni exécutable.
+
 **Compatible uniquement avec la version Steam du jeu, build 22657387.**
 
 ## Installation
