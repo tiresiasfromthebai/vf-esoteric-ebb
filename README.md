@@ -2,7 +2,7 @@
 
 Traduction française non officielle d'[Esoteric Ebb](https://store.steampowered.com/app/2057760/Esoteric_Ebb/), **en cours**.
 
-La version de test actuelle (0.2) couvre la première zone du jeu : le prologue (« Lower Lair ») et l'antre de Visken, soit environ 7 400 répliques, ainsi que l'interface, le glossaire et le journal de cette zone. Le reste du jeu est encore en anglais. Les noms des objets et des sorts, ainsi que les caractéristiques, sont traduits dans tout le jeu.
+La version de test actuelle (0.3) couvre le début du jeu : le prologue (« Lower Lair »), l'antre de Visken et la ville de Tolstad, soit environ 17 500 répliques, ainsi que l'interface, le glossaire et le journal de ces zones. Le reste du jeu est encore en anglais. Les noms des objets et des sorts, ainsi que les caractéristiques, sont traduits dans tout le jeu.
 
 ## Téléchargement
 
