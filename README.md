@@ -36,7 +36,7 @@ La VF traduit les noms des objets et des sorts, qui servent aussi de clés dans 
 
 Une copie de vos sauvegardes est faite à chaque conversion. Windows : PowerShell (inclus dans Windows). Linux et Steam Deck : python3.
 
-**À tester** : tout a été testé sous Linux, mais pas encore sur un vrai Windows. Signalez tout problème dans les [issues](../../issues).
+Testé sous Linux et sous Windows. Signalez tout problème dans les [issues](../../issues).
 
 ## Limites connues
 
