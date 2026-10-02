@@ -1,8 +1,8 @@
 # VF d'Esoteric Ebb
 
-Traduction française non officielle d'[Esoteric Ebb](https://store.steampowered.com/app/2057760/Esoteric_Ebb/), **en cours**.
+Traduction française non officielle d'[Esoteric Ebb](https://store.steampowered.com/app/2057760/Esoteric_Ebb/).
 
-La version de test actuelle (0.4) couvre le prologue (« Lower Lair »), l'antre de Visken et la ville de Tolstad, avec sa haute ville et sa basse ville, soit environ 41 000 répliques, ainsi que l'interface, le glossaire et le journal de ces zones. Le reste du jeu est encore en anglais. Les noms des objets et des sorts, ainsi que les caractéristiques, sont traduits dans tout le jeu.
+La version 1.0 couvre **le jeu entier** : plus de 74 000 répliques, de la création du personnage aux épilogues, ainsi que l'interface, le glossaire et le journal. C'est la première version complète : il reste forcément des coquilles, vos retours sont les bienvenus.
 
 ## Téléchargement
 
@@ -52,7 +52,7 @@ Testé sous Linux et sous Windows. Signalez tout problème dans les [issues](../
 
 ## Transparence sur l'IA
 
-Cette traduction est faite **avec l'aide d'une IA** (Claude, d'Anthropic), sous la direction et la relecture d'un joueur francophone. Elle s'appuie sur une charte de style, un lexique, des relectures indépendantes de chaque lot et des tests en jeu. Le résultat n'est pas parfait : vos retours comptent.
+Cette traduction est faite **avec l'aide d'une IA** (Claude, d'Anthropic), sous la direction et la relecture d'un joueur francophone. Elle s'appuie sur une charte de style, un lexique, des relectures indépendantes de chaque lot et des tests en jeu (le début du jeu ; les zones suivantes ont été relues mais pas encore jouées en VF). Le résultat n'est pas parfait : vos retours comptent.
 
 ## Retours
 
