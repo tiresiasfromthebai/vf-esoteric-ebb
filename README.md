@@ -29,7 +29,7 @@ Pour désinstaller : `desinstaller_windows.bat` ou `desinstaller_linux.sh`, ou �
 
 ## Sauvegardes
 
-La VF traduit les noms des objets et des sorts, qui servent aussi de clés dans les sauvegardes. Une partie commencée en anglais, ou avec la VF 0.1, perdrait ses objets et ses sorts sans conversion :
+La VF traduit les noms des objets et des sorts, qui servent aussi de clés dans les sauvegardes. Une partie commencée en anglais perdrait ses objets et ses sorts sans conversion :
 
 - la version patch convertit automatiquement (vers la VF à l'installation, vers la VO à la désinstallation) ;
 - avec la version complète de Nexus, ou si vous désinstallez par « Vérifier l'intégrité des fichiers », lancez `convertir_vers_vf` ou `convertir_vers_vo` (`.bat` sous Windows, `.sh` sous Linux), jeu fermé.
